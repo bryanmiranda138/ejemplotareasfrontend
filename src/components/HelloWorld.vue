@@ -11,6 +11,9 @@
           Front End del sistema de tareas,<br> para utilizar como ejemplo en las practicas de despliegue.
           
         </p>
+        <h2 class="display-2 font-weight-bold mb-3">
+          CM16127, Bryan Andres Candelario Miranda
+        </h2>
       </v-col>
 
       <v-col cols="12">
