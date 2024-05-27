@@ -14,8 +14,8 @@
 
 server {
     listen 80;
-    listen [::]:80;
-    server_name frontend.bryanmiranda.me;
+	listen [::]:80;
+    server_name frontend.alexandercalderon.me;
     root /home/ubuntu/frontend;
     index index.html;
     location / {

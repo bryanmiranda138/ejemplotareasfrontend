@@ -15,7 +15,7 @@
 server {
     listen 80;
     listen [::]:80;
-    server_name frontend.bryanmiranda.online;
+    server_name frontend.alexandercalderon.online;
     root /home/administrador/frontend;
     index index.html;
     location / {
